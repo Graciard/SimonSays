@@ -1,2 +1,2 @@
 # SimonSays
-Physical Implementation of Among Us Simon Says task
+Simon Says Game on an Arduino Uno
